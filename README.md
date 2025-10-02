@@ -1,0 +1,10 @@
+# CA2025_Assignment1
+Course Name: Computer Architecture
+Course Link: [Computer Architecture](https://wiki.csie.ncku.edu.tw/arch/schedule)
+
+## [Assignment1](https://hackmd.io/@sysprog/2025-arch-homework1)
+
+[My assignment]()
+
+I chose problem B and translated the C code to RISC-V assembly.
+In the LeetCode section, I utilized xxx to speed up LeetCode problem xxx.
