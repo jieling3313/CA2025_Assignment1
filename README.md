@@ -7,4 +7,4 @@ Course Link: [Computer Architecture](https://wiki.csie.ncku.edu.tw/arch/schedule
 [My assignment]()
 
 I chose problem B and translated the C code to RISC-V assembly.
-In the LeetCode section, I utilized xxx to speed up LeetCode problem xxx.
+In the LeetCode section, I utilized branchless_clz to speed up LeetCode problem: LeetCode 2429. Minimize XOR
